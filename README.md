@@ -59,6 +59,8 @@ This project involves the conversion of standard medical radiographs (X-rays) in
 
 This project was developed as part of a broader effort to enhance inclusivity and accessibility in science education. It was funded by a grant from the IBMS. Please credit the author when reusing or adapting materials.
 
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15543332.svg)](https://doi.org/10.5281/zenodo.15543332)
+
 ---
 
 ## Feedback and Contributions
