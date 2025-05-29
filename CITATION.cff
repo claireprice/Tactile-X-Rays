@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "Tactile X-Rays: 3D-Printed Radiographs for Inclusive Anatomy Education"
+authors:
+  - family-names: Price
+    given-names: Claire Louise
+    affiliation: Swansea University Medical School, Swansea SA2 8PP UK
+    email: c.l.price@swansea.ac.uk
+  - family-names: Pincott
+    given-names: Hayley
+    affiliation: See Science, Cardiff CF10 3DD UK
+date-released: 2025-01-01
+version: "1.0"
+license: "CC-BY-NC-4.0"
+url: "https://github.com/claireprice/Tactile-X-Rays"  
+repository-code: "https://github.com/claireprice/Tactile-X-Rays"  
+keywords:
+  - 3D printing
+  - radiography
+  - medical education
+  - accessibility
+  - tactile learning
+  - outreach
+  - inclusive science
+abstract: >
+  This project involves the conversion of medical radiographs into 3D-printed, tactile models to support inclusive, hands-on learning in anatomy and health science. Developed with outreach and accessibility in mind, the models are designed for educational use in settings where imaging technology may be limited or inaccessible. Funded by the IBMS.
